@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="280" viewBox="0 0 1040 280" role="img" aria-labelledby="header-title header-desc">
+  <title id="header-title">Mohammadamin — Frontend engineering with a designer's eye</title>
+  <desc id="header-desc">A minimal dark banner. A wireframe interface becomes a finished UI, reflecting a connection between design and engineering.</desc>
+  <style>
+    text { font-family: "Segoe UI", Arial, sans-serif; }
+    .mono { font-family: Consolas, "Courier New", monospace; }
+    .trace { stroke-dasharray: 280; stroke-dashoffset: 0; animation: trace 1.8s ease-out 1 both; }
+    @keyframes trace { from { stroke-dashoffset: 280; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .trace { animation: none; } }
+  </style>
+  <rect width="1040" height="280" rx="20" fill="#161b22"/>
+  <path d="M650 30v220M680 30v220M710 30v220M635 65h365M635 95h365M635 125h365M635 155h365M635 185h365M635 215h365" stroke="#303b49" opacity=".3" fill="none"/>
+  <rect x="54" y="37" width="5" height="18" rx="2" fill="#c8ef76"/>
+  <text class="mono" x="71" y="50" font-size="12" letter-spacing="2" fill="#b5bfcc">DESIGN / BUILD / REFINE</text>
+  <text x="54" y="128" font-size="58" font-weight="700" letter-spacing="-2.2" fill="#f0f3f6">Mohammadamin.</text>
+  <text x="56" y="172" font-size="23" fill="#b5bfcc">Frontend engineering. A designer's eye.</text>
+  <path class="trace" d="M56 199h280" stroke="#cebce9" stroke-width="2" fill="none"/>
+  <text class="mono" x="56" y="234" font-size="13" letter-spacing="1.1" fill="#b5bfcc">REACT / NEXT.JS / UI/UX</text>
+  <g aria-hidden="true">
+    <rect x="726" y="53" width="254" height="174" rx="12" fill="#1e2732" stroke="#303b49"/>
+    <path d="M726 84h254M852 84v143" stroke="#303b49" fill="none"/>
+    <circle cx="745" cy="69" r="3" fill="#cebce9"/>
+    <circle cx="757" cy="69" r="3" fill="#303b49"/>
+    <circle cx="769" cy="69" r="3" fill="#303b49"/>
+    <text class="mono" x="787" y="73" font-size="10" letter-spacing=".4" fill="#b5bfcc">interface.tsx</text>
+    <rect x="742" y="100" width="94" height="46" rx="4" fill="none" stroke="#a98bc8" stroke-dasharray="3 3"/>
+    <path d="m743 101 92 44m0-44-92 44M743 162h74m-74 9h57m-57 9h66" fill="none" stroke="#a98bc8"/>
+    <rect x="742" y="195" width="45" height="15" rx="4" fill="none" stroke="#a98bc8"/>
+    <rect x="868" y="100" width="96" height="46" rx="4" fill="#273443"/>
+    <path d="m875 137 20-19 17 13 19-24 25 30" fill="none" stroke="#cebce9" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M869 162h70" stroke="#f0f3f6" stroke-width="4" stroke-linecap="round"/>
+    <path d="M869 173h54m-54 9h66" stroke="#334456" stroke-width="3" stroke-linecap="round"/>
+    <rect x="868" y="195" width="48" height="15" rx="5" fill="#c8ef76"/>
+    <path d="M885 203h12m-4-4 4 4-4 4" stroke="#161b22" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M700 53h12m-6-6v12M990 227h12m-6-6v12" stroke="#a98bc8" stroke-width="1"/>
+  </g>
+</svg>
