@@ -48,15 +48,15 @@ Some of that work is private. I describe my role and contributions without publi
 **Frontend**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&amp;theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&amp;theme=light" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&amp;theme=dark">
+  <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&amp;theme=light" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS" height="48">
 </picture>
 
 **Design, quality & workflow**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,git,jest,vitest&amp;theme=dark">
-  <img src="https://skillicons.dev/icons?i=figma,git,jest,vitest&amp;theme=light" alt="Figma, Git, Jest, and Vitest" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma%2Cgit%2Cjest%2Cvitest&amp;theme=dark">
+  <img src="https://skillicons.dev/icons?i=figma%2Cgit%2Cjest%2Cvitest&amp;theme=light" alt="Figma, Git, Jest, and Vitest" height="48">
 </picture>
 
 - **State & data:** TanStack Query, Zustand, React Context
